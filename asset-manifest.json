@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/auth-dapp/static/css/main.e04360f9.chunk.css",
-    "main.js": "/auth-dapp/static/js/main.4e51941d.chunk.js",
-    "main.js.map": "/auth-dapp/static/js/main.4e51941d.chunk.js.map",
+    "main.js": "/auth-dapp/static/js/main.64c262fa.chunk.js",
+    "main.js.map": "/auth-dapp/static/js/main.64c262fa.chunk.js.map",
     "runtime-main.js": "/auth-dapp/static/js/runtime-main.9c0c8794.js",
     "runtime-main.js.map": "/auth-dapp/static/js/runtime-main.9c0c8794.js.map",
     "static/js/2.ea2b73e2.chunk.js": "/auth-dapp/static/js/2.ea2b73e2.chunk.js",
     "static/js/2.ea2b73e2.chunk.js.map": "/auth-dapp/static/js/2.ea2b73e2.chunk.js.map",
     "index.html": "/auth-dapp/index.html",
-    "precache-manifest.d5446963e6edbc56cd38a4ba9609330a.js": "/auth-dapp/precache-manifest.d5446963e6edbc56cd38a4ba9609330a.js",
+    "precache-manifest.ba23addaf5d541eb354f8a15d421c513.js": "/auth-dapp/precache-manifest.ba23addaf5d541eb354f8a15d421c513.js",
     "service-worker.js": "/auth-dapp/service-worker.js",
     "static/css/main.e04360f9.chunk.css.map": "/auth-dapp/static/css/main.e04360f9.chunk.css.map"
   }
