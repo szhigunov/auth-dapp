@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypatograph-ai/static/css/main.e04360f9.chunk.css",
-    "main.js": "/crypatograph-ai/static/js/main.66ae46fa.chunk.js",
-    "main.js.map": "/crypatograph-ai/static/js/main.66ae46fa.chunk.js.map",
+    "main.js": "/crypatograph-ai/static/js/main.0de7de11.chunk.js",
+    "main.js.map": "/crypatograph-ai/static/js/main.0de7de11.chunk.js.map",
     "runtime-main.js": "/crypatograph-ai/static/js/runtime-main.72e3d00c.js",
     "runtime-main.js.map": "/crypatograph-ai/static/js/runtime-main.72e3d00c.js.map",
     "static/js/2.d59c81e3.chunk.js": "/crypatograph-ai/static/js/2.d59c81e3.chunk.js",
     "static/js/2.d59c81e3.chunk.js.map": "/crypatograph-ai/static/js/2.d59c81e3.chunk.js.map",
     "index.html": "/crypatograph-ai/index.html",
-    "precache-manifest.82b34089b3a601b47cd8eba5f9f4bf36.js": "/crypatograph-ai/precache-manifest.82b34089b3a601b47cd8eba5f9f4bf36.js",
+    "precache-manifest.5bb941bed2b6470410f0b13277ed8480.js": "/crypatograph-ai/precache-manifest.5bb941bed2b6470410f0b13277ed8480.js",
     "service-worker.js": "/crypatograph-ai/service-worker.js",
     "static/css/main.e04360f9.chunk.css.map": "/crypatograph-ai/static/css/main.e04360f9.chunk.css.map"
   }

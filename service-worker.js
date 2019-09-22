@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crypatograph-ai/precache-manifest.82b34089b3a601b47cd8eba5f9f4bf36.js"
+  "/crypatograph-ai/precache-manifest.5bb941bed2b6470410f0b13277ed8480.js"
 );
 
 self.addEventListener('message', (event) => {
