@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0c136e25f7cbca03a1a6f3f29fb921a",
+    "revision": "785a22394c17bfc79c05eca20574c42c",
     "url": "/crypatograph-ai/index.html"
   },
   {
-    "revision": "f55eb233ddd4b6c6aebc",
+    "revision": "a40594cfcb9cd8f991dc",
     "url": "/crypatograph-ai/static/css/main.e04360f9.chunk.css"
   },
   {
-    "revision": "86c338f0952cd359a3be",
-    "url": "/crypatograph-ai/static/js/2.76860bdd.chunk.js"
+    "revision": "339535aad42ecfd71873",
+    "url": "/crypatograph-ai/static/js/2.d59c81e3.chunk.js"
   },
   {
-    "revision": "f55eb233ddd4b6c6aebc",
-    "url": "/crypatograph-ai/static/js/main.f5079ff2.chunk.js"
+    "revision": "a40594cfcb9cd8f991dc",
+    "url": "/crypatograph-ai/static/js/main.66ae46fa.chunk.js"
   },
   {
     "revision": "1e506dc10889db08dfc8",
