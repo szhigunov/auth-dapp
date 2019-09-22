@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/auth-dapp/static/css/main.e04360f9.chunk.css",
-    "main.js": "/auth-dapp/static/js/main.e7ca9a4a.chunk.js",
-    "main.js.map": "/auth-dapp/static/js/main.e7ca9a4a.chunk.js.map",
-    "runtime-main.js": "/auth-dapp/static/js/runtime-main.9c0c8794.js",
-    "runtime-main.js.map": "/auth-dapp/static/js/runtime-main.9c0c8794.js.map",
-    "static/js/2.76860bdd.chunk.js": "/auth-dapp/static/js/2.76860bdd.chunk.js",
-    "static/js/2.76860bdd.chunk.js.map": "/auth-dapp/static/js/2.76860bdd.chunk.js.map",
-    "index.html": "/auth-dapp/index.html",
-    "precache-manifest.39fdfcf9520f282f733b1aef8713948a.js": "/auth-dapp/precache-manifest.39fdfcf9520f282f733b1aef8713948a.js",
-    "service-worker.js": "/auth-dapp/service-worker.js",
-    "static/css/main.e04360f9.chunk.css.map": "/auth-dapp/static/css/main.e04360f9.chunk.css.map"
+    "main.css": "/crypatograph-ai/static/css/main.e04360f9.chunk.css",
+    "main.js": "/crypatograph-ai/static/js/main.f5079ff2.chunk.js",
+    "main.js.map": "/crypatograph-ai/static/js/main.f5079ff2.chunk.js.map",
+    "runtime-main.js": "/crypatograph-ai/static/js/runtime-main.72e3d00c.js",
+    "runtime-main.js.map": "/crypatograph-ai/static/js/runtime-main.72e3d00c.js.map",
+    "static/js/2.76860bdd.chunk.js": "/crypatograph-ai/static/js/2.76860bdd.chunk.js",
+    "static/js/2.76860bdd.chunk.js.map": "/crypatograph-ai/static/js/2.76860bdd.chunk.js.map",
+    "index.html": "/crypatograph-ai/index.html",
+    "precache-manifest.20ea5fcd3b7693cec8f9c11357b47c34.js": "/crypatograph-ai/precache-manifest.20ea5fcd3b7693cec8f9c11357b47c34.js",
+    "service-worker.js": "/crypatograph-ai/service-worker.js",
+    "static/css/main.e04360f9.chunk.css.map": "/crypatograph-ai/static/css/main.e04360f9.chunk.css.map"
   }
 }
