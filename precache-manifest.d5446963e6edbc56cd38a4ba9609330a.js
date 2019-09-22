@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cddde8089478ae63b9ad33db18f59b0",
+    "revision": "68d2e6cbdd51fc21ec9054b0110eb0ad",
     "url": "/auth-dapp/index.html"
   },
   {
-    "revision": "84b6d7d6c13c9098dbae",
+    "revision": "57c30498252402da278e",
     "url": "/auth-dapp/static/css/main.e04360f9.chunk.css"
   },
   {
-    "revision": "364d560efaffc506777e",
-    "url": "/auth-dapp/static/js/2.4ac569f1.chunk.js"
+    "revision": "6defd3307beab31ed053",
+    "url": "/auth-dapp/static/js/2.ea2b73e2.chunk.js"
   },
   {
-    "revision": "84b6d7d6c13c9098dbae",
-    "url": "/auth-dapp/static/js/main.cae505cc.chunk.js"
+    "revision": "57c30498252402da278e",
+    "url": "/auth-dapp/static/js/main.4e51941d.chunk.js"
   },
   {
     "revision": "a8df753134da6dad1d08",
